@@ -1,3 +1,6 @@
 [submodule "packages/SQLAON"]
 	path = packages/SQLAON
 	url = https://github.com/matiasnill/AutomationSQLAON.git
+[submodule "packages/DFS"]
+	path = packages/DFS
+	url = https://github.com/matiasnill/AutomationDFS.git
