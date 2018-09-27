@@ -1,0 +1,3 @@
+[submodule "packages/SQLAON"]
+	path = packages/SQLAON
+	url = https://github.com/matiasnill/AutomationSQLAON.git
